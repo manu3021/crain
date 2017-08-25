@@ -1,8 +1,0 @@
-name: crain
-type: theme
-description: This is a crain sub theme of custom.
-core: 8.x
-# Defines the base theme
-base theme: custom
-libraries:
-  - crain/global-styling

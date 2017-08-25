@@ -1,11 +1,11 @@
 name: custom
 type: theme
-description: 'custom theme with flex grid'
+description: 'Core theme is behave as a base theme for all crain brands.'
 package: Custom
 version: VERSION
 core: 8.x
 libraries:
-  - custom/global-styling
+  - core_theme/global-styling
 
 regions:
   header: 'Header'

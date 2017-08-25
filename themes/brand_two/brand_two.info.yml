@@ -1,0 +1,8 @@
+name: brand_two
+type: theme
+description: This is a brand_two sub theme of core_theme.
+core: 8.x
+# Defines the base theme
+base theme: core_theme
+libraries:
+  - brand_two/global-styling

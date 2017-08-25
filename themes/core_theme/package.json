@@ -1,0 +1,11 @@
+{
+  "name": "core_theme",
+  "version": "",
+  "description": "This is the base theme for all crain brands.",
+  "style": "",
+  "main": "",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
