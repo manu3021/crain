@@ -1,0 +1,11 @@
+{
+  "name": "custom",
+  "version": "",
+  "description": "",
+  "style": "",
+  "main": "",
+  "devDependencies": {
+    "gulp": "^3.6.0", 
+    "gulp-sass": "^2.0.4"
+  }
+}

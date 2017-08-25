@@ -1,0 +1,8 @@
+name: brand_one
+type: theme
+description: This is a brand_one sub theme of custom.
+core: 8.x
+# Defines the base theme
+base theme: custom
+libraries:
+  - brand_one/global-styling
