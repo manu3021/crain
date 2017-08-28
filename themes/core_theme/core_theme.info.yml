@@ -1,17 +1,16 @@
-name: Core Theme 
+name: Core Theme
 type: theme
-description: 'Core theme is behave as a base theme for all crain brands.'
-package: Custom
-version: VERSION
+description: Core theme which is based on Pattern Lab.
+package: custom
 core: 8.x
 libraries:
+  - core/normalize
   - core_theme/global-styling
-
 regions:
-  header: 'Header'
-  content: 'Content'
-  sidebar_first: 'Sidebar first'
-  footer: 'Footer'
+  header: Header
+  content: Content
+  footer: Footer
+  off_canvas: Off Canvas
 component-libraries:
   atoms:
     paths:
