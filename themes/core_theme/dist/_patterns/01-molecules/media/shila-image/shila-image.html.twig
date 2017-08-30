@@ -1,9 +1,0 @@
-<div{{ attributes.addClass('image') }}>
-  <div class="image__image">{{ image }}</div>
-  {% if caption or credit %}
-    <div class="image__text">
-      {% if caption %}<span class="image__caption">{{ caption }}</span>{% endif %}
-      {% if credit %}<span class="image__credit">{{ credit }}</span>{% endif %}
-    </div>
-  {% endif %}
-</div>

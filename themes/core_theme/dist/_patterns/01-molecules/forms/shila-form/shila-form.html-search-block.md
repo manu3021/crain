@@ -1,3 +1,0 @@
----
-title: Search block form
----
